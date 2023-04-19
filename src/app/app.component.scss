@@ -76,4 +76,8 @@ body {
     cursor: pointer;
   }
 
+  .calculator-button:active {
+    color: rgb(251, 119, 63, 1);
+  }
+
 }
